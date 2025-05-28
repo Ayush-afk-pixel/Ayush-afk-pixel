@@ -1,14 +1,12 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🎮+The+Esports+Revolution;Prompt+Engineered+from+Vision+to+Reality;Gamers.+Organizers.+Communities." alt="Typing SVG" />
+<img align="left" src="https://miro.medium.com/v2/resize:fit:960/0*IgCK3f6toz2r2itY.gif" width="100" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
+<hr style="height: 2px; background-color: #444; border: none; margin: -10; padding: 0; width: 80%;" />
 
-<br/>
-
-<img src="./assets/valorant-title.gif" width="600" alt="VALORANT Animated Header" />
 
 </div>
 
----
 
 <div align="center">
 
