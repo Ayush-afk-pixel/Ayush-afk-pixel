@@ -5,7 +5,7 @@
 
 
 </div>
-<img align="right" src="/public/cat.gif" width="150" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
+<img align="right" src="/public/cat.gif" width="162" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
 <div align="center">
 
