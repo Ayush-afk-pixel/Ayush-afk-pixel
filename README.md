@@ -1,12 +1,11 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🎮+The+Esports+Revolution;Prompt+Engineered+from+Vision+to+Reality;Gamers.+Organizers.+Communities." alt="Typing SVG" />
-<img align="left" src="https://miro.medium.com/v2/resize:fit:960/0*IgCK3f6toz2r2itY.gif" width="100" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 <hr style="height: 2px; background-color: #444; border: none; margin: -10; padding: 0; width: 80%;" />
 
 
 </div>
-
+<img align="right" src="/public/cat.gif" width="137" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
 <div align="center">
 
@@ -20,7 +19,7 @@
 ---
 
 <h1 align="center">🎯 Esports OS — Designed in Prompts</h1>
-<h3 align="center"><em>All-in-One Competitive Gaming Hub — Structured Like Code, Powered by Language</em></h3>
+<h3 align="center"><eAll-in-One Competitive Gaming Hub — Structured Like Code, Powered by Language</em></h3>
 
 <p align="center">
 Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Every feature, database model, and flow is born from thought → prompt → system. Welcome to a new way of building.
