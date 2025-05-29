@@ -27,7 +27,7 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 
 ---
 
-<h2>🚀 Features at a Glance</h2>
+[<h2>🚀 Features at a Glance</h2>
 
 <img align="right" src="https://www.codedex.io/images/character_gifs/Ai30sjf.gif" width="480" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
