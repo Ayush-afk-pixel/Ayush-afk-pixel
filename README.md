@@ -42,6 +42,7 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 ---
 
 <h2>🧭 Roadmap</h2>
+
 **In Progress**
 <img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="310" alt="Omen Idle Pixel Art" />
 
@@ -67,7 +68,7 @@ This project is more than code — it's a product of <strong>language shaping lo
 
 <h2>🎯 The Vision</h2>
 
-<img align="right" src="https://i.imgur.com/EX70tvb.gif" width="270" alt="Pixel Devs Looking at Code" style="margin-left: 20px; margin-top: 10px;" />
+<img align="right" src="https://i.imgur.com/EX70tvb.gif" width="320" alt="Pixel Devs Looking at Code" style="margin-left: 20px; margin-top: 10px;" />
 
 <h6>
 Esports platforms are scattered. What players need is one immersive home. <br/>
