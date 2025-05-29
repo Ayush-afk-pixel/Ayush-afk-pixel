@@ -43,7 +43,7 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 
 <h2>🧭 Roadmap</h2>
 
-<img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="290" alt="Omen Idle Pixel Art" style="margin-left: 20px; margin-top: 10px;" />
+<img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="310" alt="Omen Idle Pixel Art" style="margin-left: 20px; margin-top: 10px;" />
 
 **In Progress**
 
