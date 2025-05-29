@@ -27,7 +27,7 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 
 ---
 
-[<h2>🚀 Features at a Glance</h2>
+<h2>🚀 Features at a Glance</h2>
 
 <img align="right" src="https://www.codedex.io/images/character_gifs/Ai30sjf.gif" width="480" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
@@ -45,7 +45,7 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 
 <img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="270" alt="Omen Idle Pixel Art" style="margin-left: 20px; margin-top: 10px;" />
 
-**In Progress**
+</h3>In Progress</h3>
 
 - 🔁 Match updates round-by-round with win logic
 - 🧠 Auto-bracket updater with fallback handlers
@@ -71,10 +71,10 @@ This project is more than code — it's a product of <strong>language shaping lo
 
 <img align="right" src="https://i.imgur.com/EX70tvb.gif" width="270" alt="Pixel Devs Looking at Code" style="margin-left: 20px; margin-top: 10px;" />
 
-<p>
+<h6>
 Esports platforms are scattered. What players need is one immersive home. <br/>
 From team formation to tournament victory, <strong>this is where competitive gaming happens.</strong>
-</p>
+</h6>
 
 **Focused On:**
 - Fair, automated tournaments
