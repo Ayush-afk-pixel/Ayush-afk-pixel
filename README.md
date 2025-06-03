@@ -18,7 +18,7 @@
 
 ---
 
-<h1 align="center">🎯 Esports OS — Designed in Prompts</h1>
+<h1 align="center">Designed in Prompts</h1>
 <h3 align="center"><eAll-in-One Competitive Gaming Hub — Structured Like Code, Powered by Language</em></h3>
 
 <p align="center">
@@ -27,34 +27,49 @@ Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Ever
 
 ---
 
-<h2>🚀 Features at a Glance</h2>
+<h2>🚀 What I Build & How I Work</h2>
 
 <img align="right" src="https://www.codedex.io/images/character_gifs/Ai30sjf.gif" width="480" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
-- 🧠 **Community Engine:** Role-based rooms, real-time chat, moderator tools.
-- 🏆 **Tournament Flow:** Create + manage brackets from scratch, automate match progression.
-- 👥 **Teams System:** Join, manage, and explore gaming clans.
-- 💬 **Live Chat (WebSocket):** Seamless messaging with seen/typing indicators.
-- 📸 **Post Feed:** Upload images/videos, like & comment — esports goes social.
-- 🔔 **Notification System:** Real-time alerts for every interaction.
-- 💸 **Wallet System:** Recharge and (soon) payout with commission logic.
+<p>
+I'm a <strong>solo builder</strong>, <strong>prompt engineer</strong>, and <strong>full-stack creator</strong> with a mindset of precision and a roadmap of ambition.
+</p>
+
+<ul>
+  <li>🧠 I engineer with <strong>prompts first</strong> — systems, flows, UI, logic — all born in language, then brought to life.</li>
+  <li>📅 I work with a <strong>task-per-day mindset</strong> — small, focused wins that compound into something great.</li>
+  <li>⚙️ I obsess over <strong>efficiency</strong>, clean UX, and <strong>performance-first thinking</strong>.</li>
+  <li>🧰 I don't just build features — <strong>I build flows</strong>.</li>
+</ul>
+
+<p>
+🤫 <strong>My team?</strong> Me.<br />
+<small>My designer? Me.<br />
+My tester? Still me.<br />
+Coffee? Always there.</small>
+</p>
+
+<h6>
+I build solo, but not aimlessly. Every bit of code exists for a reason. Every step moves the system forward.
+</h6>
 
 ---
 
-<h2>🧭 Roadmap</h2>
+<h2>🎮 A Glimpse of What I'm Building</h2>
 
-**In Progress**
 <img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="310" alt="Omen Idle Pixel Art" />
 
-- 🔁 Match updates round-by-round with win logic
-- 🧠 Auto-bracket updater with fallback handlers
-- 📨 Push notification panel
-- 🌟 Featured players/teams with ranking logic
+<p>
+Currently shaping an <strong>esports operating system</strong> — from scratch.<br />
+No templates. No guesswork.<br />
+Everything <strong>prompt-crafted</strong>, optimized, and tailored for competitive flow.
+</p>
 
-**Up Next**
-- 🏦 Payout system (admin-controlled, secure)
-- 🔍 Explore page for player & community discovery
-- 🎯 Testing & feedback loop integration
+<p>
+Real-time chat, tournament automation, community spaces, wallet systems, social feeds, and notification logic — all in one seamless UI.
+</p>
+
+<h6>Built in public. Shipped in silence. Polished with intention.</h6>
 
 ---
 
