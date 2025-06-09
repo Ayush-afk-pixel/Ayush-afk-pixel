@@ -129,8 +129,12 @@ Whether you're a player, host, or dev — you're welcome to share ideas or just 
 
 ```mermaid
 graph TD
-  A[🧱 MVP Completed] --> B[🏅 XP System]
-  A --> C[📱 Push Panel]
-  A --> D[💸 Payouts]
-  A --> E[🔍 Search & Discovery]
-  B --> F[🚀 Public Launch]
+  A[Idea and Feature Planning] --> B[Generate Static UI with AI]
+  B --> C[Break Down Tasks Per Day]
+  C --> D[Add Interactivity and Logic]
+  D --> E[Connect to Backend and Database]
+  E --> F[Test All Flows and Fix Bugs]
+  F --> G[Add Pages and Flows If Needed]
+  G --> H[Add UI Animations for UX]
+  H --> I[Polish and Optimize Codebase]
+  I --> J[Launch or Move to Next Module]
