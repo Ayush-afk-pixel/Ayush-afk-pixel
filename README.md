@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🎮+The+Esports+Revolution;Prompt+Engineered+from+Vision+to+Reality;Gamers.+Organizers.+Communities." alt="Typing SVG" />
 <hr style="height: 2px; background-color: #444; border: none; margin: -10; padding: 0; width: 80%;" />
 
-
 </div>
 <img align="right" src="/public/cat.gif" width="162" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
@@ -18,107 +17,101 @@
 
 ---
 
-<h1 align="center">Designed in Prompts</h1>
-<h3 align="center"><eAll-in-One Competitive Gaming Hub — Structured Like Code, Powered by Language</em></h3>
+<h1 align="center">Designed Through Structured Prompts</h1>
+<h3 align="center"><em>Building Scalable Systems With AI-Assisted Development</em></h3>
 
 <p align="center">
-Built by a <strong>Prompt Engineer</strong> who codes less and thinks more. Every feature, database model, and flow is born from thought → prompt → system. Welcome to a new way of building.
+I am a <strong>full‑stack developer</strong> and <strong>prompt engineer</strong> specializing in creating scalable, production‑ready platforms. My work combines rapid prototyping with rigorous engineering practices to deliver impactful solutions.
 </p>
 
 ---
 
-<h2>🚀 What I Build & How I Work</h2>
+<h2>🚀 How I Build & Deliver</h2>
 
 <img align="right" src="https://www.codedex.io/images/character_gifs/Ai30sjf.gif" width="480" alt="Coffee Pixel Animation" style="margin-left: 20px; margin-top: 10px;" />
 
 <p>
-I'm a <strong>solo builder</strong>, <strong>prompt engineer</strong>, and <strong>full-stack creator</strong> with a mindset of precision and a roadmap of ambition.
+I handle the full development lifecycle — from concept to deployment — using a methodical, prompt‑driven workflow to accelerate development while maintaining professional standards.
 </p>
 
 <ul>
-  <li>🧠 I engineer with <strong>prompts first</strong> — systems, flows, UI, logic — all born in language, then brought to life.</li>
-  <li>📅 I work with a <strong>task-per-day mindset</strong> — small, focused wins that compound into something great.</li>
-  <li>⚙️ I obsess over <strong>efficiency</strong>, clean UX, and <strong>performance-first thinking</strong>.</li>
-  <li>🧰 I don't just build features — <strong>I build flows</strong>.</li>
+  <li>🧠 Start with <strong>AI‑assisted planning</strong> to design UI, system flow, and database schemas.</li>
+  <li>📅 Follow a <strong>structured task breakdown</strong> ensuring consistent progress and measurable milestones.</li>
+  <li>⚙️ Implement <strong>clean, modular code</strong> with attention to performance and scalability.</li>
+  <li>🧪 Conduct iterative testing and optimization across all core features.</li>
 </ul>
 
 <p>
-🤫 <strong>My team?</strong> Me.<br />
-<small>My designer? Me.<br />
-My tester? Still me.<br />
-Coffee? Always there.</small>
+<strong>Roles handled end‑to‑end:</strong> Architect, Developer, and QA — delivering solutions independently while adhering to best practices.
 </p>
 
 <h6>
-I build solo, but not aimlessly. Every bit of code exists for a reason. Every step moves the system forward.
+Every feature is backed by clear reasoning and a focus on maintainability and growth.
 </h6>
 
 ---
 
-<h2>🎮 A Glimpse of What I'm Building</h2>
+<h2>🎮 Project Highlight</h2>
 
 <img align="right" src="https://preview.redd.it/6zlacmn9vtn71.gif?width=250&auto=webp&s=cf265bb3986b51dbccfdbb834f8651d02b2198f4" width="310" alt="Omen Idle Pixel Art" />
 
 <p>
-Currently shaping an <strong>esports operating system</strong> — from scratch.<br />
-No templates. No guesswork.<br />
-Everything <strong>prompt-crafted</strong>, optimized, and tailored for competitive flow.
+Currently developing a <strong>modular esports management system</strong> designed to serve both organizers and players through integrated services. This project demonstrates my ability to architect complex systems and deliver polished user experiences.
 </p>
 
 <p>
-Real-time chat, tournament automation, community spaces, wallet systems, social feeds, and notification logic — all in one seamless UI.
+Key modules include real‑time chat infrastructure, automated tournament bracket management, wallet and payment integrations, and community‑driven features — all connected through a scalable backend.
 </p>
 
-<h6>Built in public. Shipped in silence. Polished with intention.</h6>
+<h6>Designed, implemented, and optimized for high‑concurrency and long‑term maintainability.</h6>
 
 ---
 
-<h2>🧠 Prompt-Driven Engineering</h2>
+<h2>🧠 Prompt‑Driven Engineering</h2>
 
 <p>
-This project is more than code — it's a product of <strong>language shaping logic</strong>. Built through hundreds of refined prompts, it uses AI as a co-pilot for architecture, UI flows, and real-time interaction logic. Prompt engineering here isn't just about talking to AI — it's about <strong>engineering scalable systems through structured thought</strong>.
+I leverage prompt engineering as a productivity multiplier — using AI to prototype UI, structure data flows, and generate boilerplate logic — then refining and extending it with production‑level code. This approach reduces time‑to‑feature while preserving quality.
 </p>
 
 ---
 
-<h2>🎯 The Vision</h2>
+<h2>🎯 Professional Focus</h2>
 
 <img align="right" src="https://i.imgur.com/EX70tvb.gif" width="320" alt="Pixel Devs Looking at Code" style="margin-left: 20px; margin-top: 10px;" />
 
 <h6>
-Esports platforms are scattered. What players need is one immersive home. <br/>
-From team formation to tournament victory, <strong>this is where competitive gaming happens.</strong>
+I aim to build platforms that are both technically robust and user‑centric. <br/>
+My focus is on crafting systems that simplify complex workflows while maintaining security, scalability, and exceptional UX.
 </h6>
 
-**Focused On:**
-- Fair, automated tournaments
-- Real-time communication infrastructure
-- Role-managed communities
-- A dark, intuitive gamer-first interface
+**Core Objectives:**
+- Automate repetitive operational tasks
+- Integrate real‑time communication and event systems
+- Implement secure role‑based access
+- Deliver polished interfaces optimized for performance
 
 ---
 
 <h2>⚙️ Tech Stack</h2>
 
 <p>
-🧩 <strong>Frontend:</strong> Next.js + TailwindCSS + Framer Motion<br/>
+🧩 <strong>Frontend:</strong> Next.js, TailwindCSS, Framer Motion<br/>
 🗄️ <strong>Backend:</strong> Supabase (PostgreSQL, Auth, Storage, Realtime)<br/>
-🔌 <strong>WebSockets:</strong> Socket.io (shared across chat + community)<br/>
-🖼️ <strong>Cloud Media:</strong> Supabase buckets for uploads<br/>
-🎨 <strong>Design:</strong> Inspired by Discord + Valorant’s dark UX
+🔌 <strong>Realtime:</strong> Socket.io<br/>
+🖼️ <strong>Media:</strong> Supabase buckets for file management<br/>
+🎨 <strong>Design Principles:</strong> Modular components, dark-themed layouts, and intuitive navigation
 </p>
 
 ---
 
-<h2>💡 Join the Journey</h2>
+<h2>💡 Let’s Connect</h2>
 
 <p>
-This isn't just a dev project — it's an evolving product.<br/>
-Built for the esports world, by someone who speaks both <code>code</code> and <code>intent</code>.
+I’m open to opportunities where I can contribute my expertise in <code>full‑stack development</code> and <code>prompt‑driven workflows</code> to deliver scalable, high‑impact solutions.
 </p>
 
 <p>
-Whether you're a player, host, or dev — you're welcome to share ideas or just vibe with the vision.
+Feel free to reach out for collaboration, hiring opportunities, or to discuss system architecture and product engineering.
 </p>
 
 <div align="center">
@@ -129,12 +122,12 @@ Whether you're a player, host, or dev — you're welcome to share ideas or just 
 
 ```mermaid
 graph TD
-  A[Idea and Feature Planning] --> B[Generate Static UI with AI]
-  B --> C[Break Down Tasks Per Day]
-  C --> D[Add Interactivity and Logic]
-  D --> E[Connect to Backend and Database]
-  E --> F[Test All Flows and Fix Bugs]
-  F --> G[Add Pages and Flows If Needed]
-  G --> H[Add UI Animations for UX]
-  H --> I[Polish and Optimize Codebase]
-  I --> J[Launch or Move to Next Module]
+  A[Plan Features & Architecture] --> B[AI-Assisted UI Prototyping]
+  B --> C[Organize Tasks & Milestones]
+  C --> D[Implement Frontend Functionality]
+  D --> E[Connect Backend & Database]
+  E --> F[Perform Testing & QA]
+  F --> G[Iterate and Expand Features]
+  G --> H[Enhance UX with Animations]
+  H --> I[Optimize & Refactor Code]
+  I --> J[Launch and Maintain]
